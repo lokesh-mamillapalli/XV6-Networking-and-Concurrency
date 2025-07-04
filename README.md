@@ -3,7 +3,6 @@
 
  # Networking
 
-
 ### **Networking Task 1: Multiplayer Tic-Tac-Toe Game (15 points)**
 
 #### **Overview**
