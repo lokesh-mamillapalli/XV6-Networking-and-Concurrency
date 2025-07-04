@@ -1,7 +1,7 @@
 # XV6-Networking-and-Concurrency
  The implementation is based on the specifications provided in [`mp2Questions.md`](./mp2Questions.md) and [`mp3Questions.md`](./mp3Questions.md).
 
- # Networking
+# Networking
 
 ### **Networking Task 1: Multiplayer Tic-Tac-Toe Game (15 points)**
 
